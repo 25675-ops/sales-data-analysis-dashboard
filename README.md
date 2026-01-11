@@ -1,2 +1,1 @@
-# sales-data-analysis-dashboard
-i developed a comprehensive project in excel, creating multiple dashboards and  tables to analyse the data. this process involved several stages, including data preprocessing, data cleaning, and data visualization
+The objective of this project is to analyze product sales data to identify key trends and performance patterns. It aims to transform raw sales data into meaningful insights that support better business and sales decisions.
